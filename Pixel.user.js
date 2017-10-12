@@ -10,6 +10,8 @@
 // @grant        none
 // ==/UserScript==
 
+setTimeout(()=> document.location.reload(),70000);
+
 function MyPixelBot() {
     window.MyPixelBot = MyPixelBot;
 
