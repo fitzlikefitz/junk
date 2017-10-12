@@ -14,7 +14,7 @@ function MyAwesomePixelBot() {
     window.MyAwesomePixelBot = MyAwesomePixelBot;
     MyAwesomePixelBot.url = {
         script: 'https://rawgit.com/fitzlikefitz/junk/edit/master/PixelBotSvbdny.user.js',
-        image: 'https://i.imgur.com/IPnTL1g.png'
+        image: 'https://raw.githubusercontent.com/fitzlikefitz/junk/master/svbdny.png'
     };
     MyAwesomePixelBot.refreshTime = 300;
     MyAwesomePixelBot.pts = 30;
@@ -79,7 +79,7 @@ function MyAwesomePixelBot() {
                 MyAwesomePixelBot.getFullData()
         }
         ;
-        MyAwesomePixelBot.img.src = ( 'https://i.imgur.com/IPnTL1g.png' || MyAwesomePixelBot.urlGen.image())
+        MyAwesomePixelBot.img.src = ( 'https://raw.githubusercontent.com/fitzlikefitz/junk/master/svbdny.png' || MyAwesomePixelBot.urlGen.image())
     }
     ;
     MyAwesomePixelBot.canvasEvent = function(type, q) {
