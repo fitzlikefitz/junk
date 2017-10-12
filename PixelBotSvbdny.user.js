@@ -1,9 +1,9 @@
 ﻿// ==UserScript==
-// @name         Pixel Bot Tj + Bp
+// @name         Pixel Bot Svbdny
 // @namespace    http://tampermonkey.net/
 // @version      1.1.2
 // @description  try to take over the world!
-// @author       Flyink13, DarkKeks
+// @author       Flyink13, DarkKeks, edited for svbdny by Fitz
 // @match        https://pixel.vkforms.ru/*
 // @downloadURL  https://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
 // @updateURL    https://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
