@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixel Bot Svbdny
 // @namespace    http://tampermonkey.net/
-// @version      2.2
+// @version      2.3
 // @description  try to take over the world!
 // @author       Fitz, Kuluev
 // @match        https://pixel.vkforms.ru/*
@@ -17,7 +17,7 @@ function MyPixelBot() {
 
     MyPixelBot.url = {
         script: 'https://github.com/fitzlikefitz/junk/raw/master/Pixel.user.js',
-        image:  'https://i.imgur.com/yxW6zmv.png'
+        image:  'https://i.imgur.com/nZKpNlD.png'
     };
 
     MyPixelBot.refreshTime = 300;
