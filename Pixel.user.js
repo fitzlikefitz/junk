@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Pixel Bot Svbdny
 // @namespace    http://tampermonkey.net/
-// @version      2.6
+// @version      2.7
 // @description  try to take over the world!
 // @author       Fitz, Kuluev
 // @match        https://pixel.vkforms.ru/*
