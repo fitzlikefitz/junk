@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Pixel Bot
+// @name         Pixel Bot Svbdny
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  try to take over the world!
-// @author       Flyink13, DarkKeks
+// @author       Fitz, Kuluev
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://1366340.dyn.ufanet.ru/PixelBot.user.js
-// @updateURL    https://1366340.dyn.ufanet.ru/PixelBot.user.js
+// @downloadURL  https://github.com/fitzlikefitz/junk/raw/master/Pixel.user.js
+// @updateURL    https://github.com/fitzlikefitz/junk/raw/master/Pixel.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -14,8 +14,8 @@ function MyPixelBot() {
     window.MyPixelBot = MyPixelBot;
 
     MyPixelBot.url = {
-        script: 'https://1366340.dyn.ufanet.ru/PixelBot.user.js',
-        image:  'https://1366340.dyn.ufanet.ru/pixel.png'
+        script: 'https://github.com/fitzlikefitz/junk/raw/master/Pixel.user.js',
+        image:  'https://i.imgur.com/zzvUI5Y.png'
     };
 
     MyPixelBot.refreshTime = 300;
