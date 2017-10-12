@@ -5,8 +5,8 @@
 // @description  try to take over the world!
 // @author       Fitz, Kuluev
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://github.com/fitzlikefitz/junk/raw/master/Pixel.user.js
-// @updateURL    https://github.com/fitzlikefitz/junk/raw/master/Pixel.user.js
+// @downloadURL  https://github.com/fitzlikefitz/junk/raw/master/Pixel.2d.js
+// @updateURL    https://github.com/fitzlikefitz/junk/raw/master/Pixel.2d.js
 // @grant        none
 // ==/UserScript==
 
@@ -16,8 +16,8 @@ function MyPixelBot() {
     window.MyPixelBot = MyPixelBot;
 
     MyPixelBot.url = {
-        script: 'https://github.com/fitzlikefitz/junk/raw/master/Pixel.user.js',
-        image:  'https://i.imgur.com/zzvUI5Y.png'
+        script: 'https://github.com/fitzlikefitz/junk/raw/master/Pixel.2d.js',
+        image:  'https://i.imgur.com/lECzuUZ.png'
     };
 
     MyPixelBot.refreshTime = 300;
