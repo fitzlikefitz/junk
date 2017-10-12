@@ -157,7 +157,7 @@ function MyPixelBot() {
     MyPixelBot.draw = function() {
         var px = MyPixelBot.pixs.shift();
         if (!px) {
-            MyPixelBot.setState("Точек нет");
+            MyPixelBot.setState("Ленивых точек нет");
         } else {
             MyPixelBot.canvasClick(px[0], px[1], px[2]);
         }
