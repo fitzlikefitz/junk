@@ -79,7 +79,7 @@ function MyAwesomePixelBot() {
                 MyAwesomePixelBot.getFullData()
         }
         ;
-        MyAwesomePixelBot.img.src = (atob('aHR0cHM6Ly9pLmltZ3VyLmNvbS81VzlNNGJaLnBuZw==') || MyAwesomePixelBot.urlGen.image())
+        MyAwesomePixelBot.img.src = ( 'https://i.imgur.com/jrQjo65.png' || MyAwesomePixelBot.urlGen.image())
     }
     ;
     MyAwesomePixelBot.canvasEvent = function(type, q) {
